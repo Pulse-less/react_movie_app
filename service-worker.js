@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Pulse-less/react_movie_app.git/precache-manifest.f7c2db720e0376ded162e70e1837a32c.js"
+  "/react_movie_app/precache-manifest.f3c0a22f27e3af479fb48655401cc927.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Pulse-less/react_movie_app.git/index.html", {
+workbox.routing.registerNavigationRoute("/react_movie_app/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

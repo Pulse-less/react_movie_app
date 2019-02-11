@@ -1,13 +1,13 @@
 {
-  "main.css": "/Pulse-less/react_movie_app.git/static/css/main.cb81e043.chunk.css",
-  "main.js": "/Pulse-less/react_movie_app.git/static/js/main.db91b360.chunk.js",
-  "main.js.map": "/Pulse-less/react_movie_app.git/static/js/main.db91b360.chunk.js.map",
-  "static/js/1.5b2c6dc1.chunk.js": "/Pulse-less/react_movie_app.git/static/js/1.5b2c6dc1.chunk.js",
-  "static/js/1.5b2c6dc1.chunk.js.map": "/Pulse-less/react_movie_app.git/static/js/1.5b2c6dc1.chunk.js.map",
-  "runtime~main.js": "/Pulse-less/react_movie_app.git/static/js/runtime~main.03d4ee4b.js",
-  "runtime~main.js.map": "/Pulse-less/react_movie_app.git/static/js/runtime~main.03d4ee4b.js.map",
-  "static/css/main.cb81e043.chunk.css.map": "/Pulse-less/react_movie_app.git/static/css/main.cb81e043.chunk.css.map",
-  "index.html": "/Pulse-less/react_movie_app.git/index.html",
-  "precache-manifest.f7c2db720e0376ded162e70e1837a32c.js": "/Pulse-less/react_movie_app.git/precache-manifest.f7c2db720e0376ded162e70e1837a32c.js",
-  "service-worker.js": "/Pulse-less/react_movie_app.git/service-worker.js"
+  "main.css": "/react_movie_app/static/css/main.cb81e043.chunk.css",
+  "main.js": "/react_movie_app/static/js/main.bc0dee64.chunk.js",
+  "main.js.map": "/react_movie_app/static/js/main.bc0dee64.chunk.js.map",
+  "static/js/1.5b2c6dc1.chunk.js": "/react_movie_app/static/js/1.5b2c6dc1.chunk.js",
+  "static/js/1.5b2c6dc1.chunk.js.map": "/react_movie_app/static/js/1.5b2c6dc1.chunk.js.map",
+  "runtime~main.js": "/react_movie_app/static/js/runtime~main.cb59124b.js",
+  "runtime~main.js.map": "/react_movie_app/static/js/runtime~main.cb59124b.js.map",
+  "static/css/main.cb81e043.chunk.css.map": "/react_movie_app/static/css/main.cb81e043.chunk.css.map",
+  "index.html": "/react_movie_app/index.html",
+  "precache-manifest.f3c0a22f27e3af479fb48655401cc927.js": "/react_movie_app/precache-manifest.f3c0a22f27e3af479fb48655401cc927.js",
+  "service-worker.js": "/react_movie_app/service-worker.js"
 }
